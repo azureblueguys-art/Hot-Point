@@ -65,6 +65,16 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "xiaohongshu"
+      name: "小红书"
+    - id: "xiaoheihe"
+      name: "小黑盒"
+    - id: "twitter"
+      name: "推特X"
+    - id: "ngabbs"
+      name: "恩基爱nga"
+    - id: "taptap"
+      name: "TapTap"
 
 
 
