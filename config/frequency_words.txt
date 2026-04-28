@@ -149,34 +149,11 @@
 
 [WORD_GROUPS]
 
-# ═══════════════════════════════════════════════════════════════
-#                         企业与品牌
-# ═══════════════════════════════════════════════════════════════
-
-/胖东来|于东来/ => 胖东来
-
-/深度求索|幻方量化|梁文锋|\bDeepSeek\b/ => DeepSeek
-
-/华为|任正非|余承东|鸿蒙|海思|昇腾|鲲鹏|\bHUAWEI\b|\bHarmonyOS\b|\bHiSilicon\b/ => 华为
-
-/比亚迪|王传福|方程豹|腾势|仰望|弗迪|刀片电池|云辇|\bBYD\b|\bDenza\b|\bYangwang\b/ => 比亚迪
-
-/大疆|汪滔|灵眸|如影|\bDJI\b|\bRoboMaster\b|\bMavic\b|\bZenmuse\b/ => 大疆
-
 /宇树|王兴兴|\bUnitree\b/ => 宇树机器人
-
-/智元|灵犀|稚晖君|彭志辉|AgiBot/ => 智元机器人
-/众擎|EngineAI|赵同阳/ => 众擎机器人
 
 /黑神话|冯骥/ => 黑神话悟空
 
 /影之刃零|梁其伟/ => 影之刃零
-
-/三体|流浪地球|刘慈欣|郭帆/ => 三体/流浪地球
-
-申奥
-
-/京东|刘强东|\bJD\b|\bJingdong\b/ => 京东
 
 /字节|张一鸣|梁汝波|抖音|\bByteDance\b|\bTikTok\b|\bDouyin\b|\bLark\b|\bCapCut\b/ => 字节跳动
 
@@ -214,14 +191,6 @@
 美国
 加拿大
 
-[西欧]
-法国
-英国
-
-/俄罗斯|俄国/ => 俄罗斯
-
-印度
-
 
 # ═══════════════════════════════════════════════════════════════
 #                         科技领域
@@ -243,16 +212,44 @@
 
 /自动驾驶|无人驾驶|智驾/ => 自动驾驶
 
-机器人
-/机械狗|四足/ => 机器狗
-具身智能
-
-/月球|登月|火星|宇宙|飞船|航天|空间站|卫星/ => 航天
-
-# 前沿科技
-量子
-脑机
-基因
-
 # 产业政策
 生产力
+
+梗
+memes
+
+搜打撤
+
+三角洲行动
+三角洲行动|三角洲部队|\bDelta\b\s+\bForce\b
+
+无畏契约
+
+王者荣耀
+
+英雄联盟
+英雄联盟|撸啊撸|拳头|云顶之弈|双城之战|金铲铲之战|\bLOL\b|\bLeague\b \bof\b \bLegends\b|\bRiot\b|\bTeamfight\b \bTactics\b|\bWild\b \bRift\b|\bArcane\b|\bBrandon\b \bBeck\b|\bMarc\b \bMerrill\b
+
+[游戏资讯]
+游戏|网游|手游|端游|页游|电竞|3A|\bGame\b|\bGaming\b
+
+[梗memes]
+梗|\bmeme\b
+\bmemes\b|梗
+
+[暗区突围]
+暗区突围|\bArena\b\s+\bBreakout\b
+暗区突围
+暗区突围无限
+
+鸣潮|\bWuthering\b\s+\bWaves\b => 库洛游戏
+
+米哈游|原神|崩坏|绝区零|HoYoverse|蔡浩宇|刘伟|\bmiHoYo\b => 米哈游
+
+腾讯游戏|天美|光子|魔方|北极光|马化腾|\bTencent\s+Games\b|\bTiMi\b|\bLightspeed\b|\bQuantum\b|\bAurora\b => 腾讯游戏
+
+\bValve\b|\bSteam\b|\bGabe\s+Newell\b|\bSteam\s+Deck\b|Value\s+Steam => Steam平台
+
+网易游戏|网易|丁磊|梦幻西游|大话西游|永劫无间|逆水寒|雷火|互娱|\bNetEase\b|\bNetease\b => 网易游戏
+
+抖音热榜|抖音热搜|抖音榜单|字节跳动|张一鸣|\bTikTok\b => 抖音热点
